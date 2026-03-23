@@ -29,7 +29,7 @@ section { display: none; }
 .hero {
     width: 100%;
     min-height: 260px;
-    background: url('images/cake-hero.jpg') center/cover no-repeat;
+    background: url('') center/cover no-repeat;
     display: flex;
     align-items: center;
     justify-content: center;
